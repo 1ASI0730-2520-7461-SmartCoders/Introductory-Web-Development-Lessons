@@ -29,7 +29,7 @@ Este taller está dividido en 5 segmentos, cada uno a cargo de un responsable su
 
 ### Segmento P. 2: Contenido Estructural HTML (15 minutos)
 * **Descripción**: Creación del contenido completo de la "Tarjeta de Perfil" utilizando títulos, párrafos, la etiqueta de imagen y una lista de elementos favoritos.
-* **Enlace del video**:
+* **Enlace del video**:https://youtu.be/e5uUQnbhw2k
 * **Consejos clave**: Usa `<h1>`, `<p>`, `<img>`, `<ul>`, y asigna la clase `.perfil-card` al contenedor principal.
 * **Práctica**: [Clic para programar el Contenido]() 
 
@@ -41,7 +41,7 @@ Este taller está dividido en 5 segmentos, cada uno a cargo de un responsable su
 
 ### Segmento P. 4: El Diseño de la Tarjeta (Modelo de Caja) (15 minutos)
 * **Descripción**: Aplicar el Modelo de Caja al contenedor `.perfil-card` para darle dimensiones (`width`), espacio interno (`padding`), espacio externo (`margin`) y centrar el elemento en la página.
-* **Enlace del video**:
+* **Enlace del video**:https://youtu.be/ACzEonhf5DI
 * **Consejos clave**: El centrado se logra con `margin: 0 auto;`.
 * **Práctica**: [Aplicar estilo y Layout]()
 
@@ -90,3 +90,4 @@ NRC 7461
     * Daniel Stalin Palomino Murga U20201B253
 
 * **Fecha de entrega**:
+
