@@ -23,7 +23,7 @@ Este taller está dividido en 5 segmentos, cada uno a cargo de un responsable su
 
 ### Segmento P. 1: Introducción y Base HTML (10 minutos)
 * **Descripción**: Presentación del proyecto, revisión de requisitos (editor, navegador) y construcción de la estructura básica del archivo HTML.
-* **Enlace del video**:
+* **Enlace del video**:https://youtu.be/n8KMlJfEgpQ
 * **Consejos clave**: La estructura mínima es `<!DOCTYPE>`, `<html>`, `<head>`, `<body>`.
 * **Empieza a programar**: [Open CodePen Starter]()
 
@@ -90,5 +90,6 @@ NRC 7461
     * Daniel Stalin Palomino Murga U20201B253
 
 * **Fecha de entrega**:
+
 
 
