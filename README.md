@@ -47,7 +47,7 @@ Este taller está dividido en 5 segmentos, cada uno a cargo de un responsable su
 
 ### Segmento P. 5: Toques Finales y Conclusión (10 minutos)
 * **Descripción**: Añadir detalles estéticos finales como bordes redondeados (`border-radius`) y sombras (`box-shadow`). Resumen de los conceptos clave y próximos pasos.
-* **Enlace del video**:
+* **Enlace del video**:https://youtu.be/dHW2bQEMK6E
 * **Consejos Clave**: Valida el código y explora más en la Documentación Web de MDN.
 * **Proyecto Final**: [Crea y Guarda tu Perfil]()
     * **¡No es necesario registrarse!**
@@ -90,6 +90,7 @@ NRC 7461
     * Daniel Stalin Palomino Murga U20201B253
 
 * **Fecha de entrega**:
+
 
 
 
