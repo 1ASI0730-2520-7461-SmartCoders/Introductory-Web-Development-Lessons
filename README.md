@@ -35,7 +35,7 @@ Este taller está dividido en 5 segmentos, cada uno a cargo de un responsable su
 
 ### Segmento P. 3: Estilos Globales y Tipografía CSS (10 minutos)
 * **Descripción**: Vincular la hoja de estilos CSS. Aplicar estilos generales al `<body>` (fondo y colores base) y estilizar la tipografía (fuente, tamaño, color).
-* **Enlace del video**:
+* **Enlace del video**:https://youtu.be/kX6DZl7wPGA
 * **Consejos clave**: Usa el selector `body` para estilos globales y `color`, `font-family` para textos.
 * **Práctica**: [Clic para aplicar Estilos Base]() 
 
@@ -90,4 +90,5 @@ NRC 7461
     * Daniel Stalin Palomino Murga U20201B253
 
 * **Fecha de entrega**:
+
 
