@@ -74,7 +74,6 @@ Este taller está dividido en 5 segmentos, cada uno a cargo de un responsable su
 | P. 4 | Modelo de Caja | []() |
 | P. 5 | Proyecto Final | []() |
 
-* **Cuestionario**: [Pon a prueba tus conocimientos]()
 * **Compartir**: Usa el hashtag **#WebDevBeginners**
 
 **¡Gracias por completar el curso!** 🎉
@@ -95,6 +94,7 @@ NRC 7461
     * Daniel Stalin Palomino Murga U20201B253
 
 * **Fecha de entrega**: 13/11/2025
+
 
 
 
